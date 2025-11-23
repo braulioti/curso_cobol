@@ -47,4 +47,10 @@
 - ~~32 Instalando o ambiente para Exercícios~~
 - ~~33 Configurando o ambiente (IDE)~~ 
 
+### Seção 8: Linguagem COBOL - ESTRUTURA DE UM PROGRAMA
+- ~~34 Estrutura de um programa Cobol - Parte 1~~
+- ~~35 Estrutura de um programa Cobol - Parte 2~~
+- ~~36 Estrutura de um programa Cobol - Parte 3~~
+- ~~37 Estrutura de um programa Cobol - Parte 4~~
+
 
