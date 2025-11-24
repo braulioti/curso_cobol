@@ -61,10 +61,17 @@
 - ~~42 Variáveis do tipo Grupo~~
 - ~~43 Variáveis do tipo Grupo - continuação...~~
 
+### Seção 10: Linguagem COBOL - OPERADORES ARITMETICOS
+- ~~44 Somando valores - Operador ADD~~
+- ~~45 Subtraindo valores - Operador SUBTRACT~~
+- ~~46 Multiplicando valores - Operador MULTIPLY~~
+- ~~47 Dividindo valores - Operador DIVIDE~~
+- ~~48 Calculando expressoes - Comando COMPUTE~~
+
 ### Seção 17: PROJETO - Sistema de Clientes com TELAS de Menu, Cadastro, Arquivo Indexados
-- 73 Início do projeto
-- 74 Criando e testando Menu Principal
-- 75 Criando e testando Menu Principal - continuação...
+- ~~73 Início do projeto~~
+- ~~74 Criando e testando Menu Principal~~
+- ~~75 Criando e testando Menu Principal - continuação...~~
 - 76 Validando as escolhas nas opções do MENU
 - 77 Tipos de Arquivos (Sequencial e Indexado) e como acessar
 - 78 Abertura do Arquivo

@@ -2,7 +2,7 @@
        PROGRAM-ID. PROGRAMA07.
       *=================================================================
       *==AUTOR: BRAULIO FIGUEIREDO       EMPRESA: XPTO
-      *==OBJETIVO:
+      *==OBJETIVO: VARIAVEL ESTRUTURAL (GRUPO)
       *==DATA: 23/11/2025
       *==OBSERVACOES:
       *=================================================================
