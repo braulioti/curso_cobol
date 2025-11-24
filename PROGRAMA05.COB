@@ -1,8 +1,8 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PROGRAMA02.
+       PROGRAM-ID. PROGRAMA05.
       *=================================================================
       *==AUTOR: BRAULIO FIGUEIREDO       EMPRESA: XPTO
-      *==OBJETIVO: VARIAVEL COM CASA DECIMAL
+      *==OBJETIVO: VARIAVEL DE NIVEL (ESTRUTURAL) - FILLER
       *==DATA: 23/11/2025
       *==OBSERVACOES:
       *=================================================================
@@ -14,22 +14,26 @@
 
        DATA                     DIVISION.
        WORKING-STORAGE          SECTION.
-       77 WRK-NOME                 PIC X(30)    VALUE SPACES.
-       77 WRK-IDADE                PIC 9(03)    VALUE ZEROS.
-       77 WRK-SALARIO              PIC 9(08)V99 VALUE ZEROS.
+       01 WRK-DATA.
+          05 WRK-ANO PIC X(04) VALUE SPACES.
+          05 WRK-MES PIC X(02) VALUE SPACES.
+          05 WRK-DIA PIC X(02) VALUE SPACES.
+
+       01 WRK-DATA2.
+          05 WRK-DIA PIC X(02) VALUE SPACES.
+          05 FILLER  PIC X(01) VALUE "/".
+          05 WRK-MES PIC X(02) VALUE SPACES.
+          05 FILLER  PIC X(01) VALUE "/".
+          05 WRK-ANO PIC X(04) VALUE SPACES.
 
        PROCEDURE DIVISION.
        0100-RECEBE              SECTION.
-           DISPLAY "DIGITE SEU NOME"
-              ACCEPT WRK-NOME.
-           DISPLAY "DIGITE SUA IDADE"
-              ACCEPT WRK-IDADE.
-           DISPLAY "DIGITE SEU SALARIO"
-              ACCEPT WRK-SALARIO.
+           ACCEPT WRK-DATA FROM DATE YYYYMMDD.
+           MOVE CORR WRK-DATA TO WRK-DATA2.
 
        0200-MOSTRA              SECTION.
-           DISPLAY "NOME DIGITADO " WRK-NOME " IDADE " WRK-IDADE.
-           DISPLAY "SALARIO DIGITADO " WRK-SALARIO.
+           DISPLAY "DATA INTEIRA " WRK-DATA.
+           DISPLAY WRK-DATA2.
 
        0300-FINALIZAR           SECTION.
            STOP RUN.

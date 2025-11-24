@@ -53,4 +53,31 @@
 - ~~36 Estrutura de um programa Cobol - Parte 3~~
 - ~~37 Estrutura de um programa Cobol - Parte 4~~
 
+### Seção 9: Linguagem COBOL - APRENDENDO MAIS SOBRE VARIÁVEIS
+- ~~38 Inserindo casas decimais~~
+- ~~39 Sinais - Números positivos e negativos~~
+- ~~40 Máscara para formatação de dados~~
+- ~~41 Movendo entre variáveis~~
+- ~~42 Variáveis do tipo Grupo~~
+- ~~43 Variáveis do tipo Grupo - continuação...~~
+
+### Seção 17: PROJETO - Sistema de Clientes com TELAS de Menu, Cadastro, Arquivo Indexados
+- 73 Início do projeto
+- 74 Criando e testando Menu Principal
+- 75 Criando e testando Menu Principal - continuação...
+- 76 Validando as escolhas nas opções do MENU
+- 77 Tipos de Arquivos (Sequencial e Indexado) e como acessar
+- 78 Abertura do Arquivo
+- 79 Incluindo Dados
+- 80 Validando uma chave de acesso existente
+- 81 Tratando e Exibindo erros de acesso ao arquivo
+- 82 Finalizando o Menu
+- 83 Consultando um Registro através de uma chave
+- 84 Excluindo um registro através de uma chave
+- 85 Alterando um Registro através de uma chave
+- 86 Criando um relatório para visualização em Tela
+- 87 Criando um Relatório para Visualização em Tela - continuação...
+- 88 Criando um Relatório para gravação em DISCO
+- ~~89 Arquivos necessários para RODAR o programa direto pelo Prompt (sem usar a IDE)~~
+
 
