@@ -68,6 +68,22 @@
 - ~~47 Dividindo valores - Operador DIVIDE~~
 - ~~48 Calculando expressoes - Comando COMPUTE~~
 
+### Seção 11: Linguagem COBOL - COMANDOS DE DECISÃO
+- ~~49 Comando de decisão IF~~
+- ~~50 Comando de decisão IF - Continuação~~
+- ~~51 Comando de decisão EVALUATE~~
+- ~~52 Operadores Lógicos~~
+
+### Seção 12: Linguagem COBOL - COMANDOS DE REPETIÇÃO
+- 53 Entendendo sobre loop - Comando Perform - Boas Práticas
+- 54 Loop com início e fim - TIMES
+- 55 Loop com uso de variável - Varying
+- 56 Proposta de exercício sobre Loop - Vendas
+
+### Seção 13: Linguagem COBOL - VETORES - TABLEAS
+- 57 Conhecendo Vetores - Comando OCCURS
+- 58 Conhecendo Vetores - Comando OCCURS - continuação
+
 ### Seção 17: PROJETO - Sistema de Clientes com TELAS de Menu, Cadastro, Arquivo Indexados
 - ~~73 Início do projeto~~
 - ~~74 Criando e testando Menu Principal~~
