@@ -75,20 +75,40 @@
 - ~~52 Operadores Lógicos~~
 
 ### Seção 12: Linguagem COBOL - COMANDOS DE REPETIÇÃO
-- 53 Entendendo sobre loop - Comando Perform - Boas Práticas
-- 54 Loop com início e fim - TIMES
-- 55 Loop com uso de variável - Varying
-- 56 Proposta de exercício sobre Loop - Vendas
+- ~~53 Entendendo sobre loop - Comando Perform - Boas Práticas~~
+- ~~54 Loop com início e fim - TIMES~~
+- ~~55 Loop com uso de variável - Varying~~
+- ~~56 Proposta de exercício sobre Loop - Vendas~~
 
 ### Seção 13: Linguagem COBOL - VETORES - TABLEAS
 - 57 Conhecendo Vetores - Comando OCCURS
 - 58 Conhecendo Vetores - Comando OCCURS - continuação
 
+### Seção 14: Linguagem COBOL - TROCA DE DADOS ENTRE PROGRAMAS
+- 59 Fazendo comunicação entre programas - Comando CALL
+- 60 Fazendo comunicação entre programas - Comando CALL - continuação
+
+### Seção 15: Linguagem COBOL - REAPROVEITAMENTO DE CÓDIGO
+- 61 Incluindo partes do programa com o comando COPY
+- 62 Resumo do Módulo I - Cobol Windows
+
+### Seção 16: Linguagem COBOL - ARQUIVO DE DADOS - CRIANDO UM SISTEMA DE CONTROLE DE CONTATOS
+- 63 Conceito de Arquivo de Dados
+- 64 Abrindo o arquivo
+- 65 Fazendo a leitura de um dado (registro)
+- 66 Fazendo a leitura de TODOS os dados do arquivo
+- 67 Gravando dados no arquivo
+- 68 Localizando um registro pela chave do dado (registro)
+- 69 Criando estatistica de processamento
+- 70 Criando estatistica de processamento - continuação
+- 71 Gravando dados no arquivo no formato de inclusão ao final
+- 72 Resumo deste Módulo - Arquivos
+
 ### Seção 17: PROJETO - Sistema de Clientes com TELAS de Menu, Cadastro, Arquivo Indexados
 - ~~73 Início do projeto~~
 - ~~74 Criando e testando Menu Principal~~
 - ~~75 Criando e testando Menu Principal - continuação...~~
-- 76 Validando as escolhas nas opções do MENU
+- ~~76 Validando as escolhas nas opções do MENU~~
 - 77 Tipos de Arquivos (Sequencial e Indexado) e como acessar
 - 78 Abertura do Arquivo
 - 79 Incluindo Dados
